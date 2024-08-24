@@ -27,11 +27,13 @@ This script automates the Spicetify installation process. Make sure you already 
    ```bash
    ./spicetify.sh
    ```
+   
 
 #### Troubleshooting:
 
 - Ignore any errors during installation.
 - Verify if Spotify is customized after the script completes. Look for the marketplace at the top left.
+- Try running "spicetify update" to update to a working version.
 - If you encounter issues, please open an issue on the [repository](https://github.com/boudywho/spicetify-arch-installation-guide) with the full terminal output for assistance.
 
 **Disclaimer:** This script is experimental and provided "as-is." Use it at your own risk. It is designed for Arch Linux and may not be compatible with other distributions. 
